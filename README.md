@@ -30,7 +30,19 @@
    - Результат сохраняется в отдельную папку `output/visualizations`  
 
 6. **main.py (cохранение результата)**  
-   - Все данные стен, дверей и размеров сериализуются в `result.json`  
+   - Все данные стен, дверей и размеров сериализуются в `result.json`
+
+
+<div style="display:flex; justify-content:center; gap: 20px;">
+    <div>
+        <img src="775474_a6067990d47c0eb7a80d9f404dbd5098.png" width="300" alt="Сырое">
+        <p style="text-align:center;">Исходное изображение</p>
+    </div>
+    <div>
+        <img src="775474_a6067990d47c0eb7a80d9f404dbd5098_vis.png" width="300" alt="Обработанное">
+        <p style="text-align:center;">Обработанное изображение</p>
+    </div>
+</div>
 
 ---
 
